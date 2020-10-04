@@ -19,3 +19,4 @@
 - [Free Domain Name](http://www.freenom.com/en/index.html?lang=en)
 - [Shodan (Search Engine for IOT)](https://www.shodan.io/)
 - https://github.com/StevenBlack/hosts
+- [WSL 2 guide](https://www.sitepoint.com/wsl2/)
