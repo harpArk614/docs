@@ -5,6 +5,7 @@
 - [MIT OCW](https://ocw.mit.edu/index.htm)
 - [Cognitive Classes](https://cognitiveclass.ai/)
 - [CS97SI Intro to programming Courses ](https://web.stanford.edu/class/cs97si/)
+- [Cisco Networking academy (BTW cisco is the indutry leader in networking solutions)](https://www.netacad.com/)
 
 ## Unfiltered
 - [Open Encyclopedia of Integer Sequences](https://oeis.org)
@@ -20,3 +21,5 @@
 - [Shodan (Search Engine for IOT)](https://www.shodan.io/)
 - https://github.com/StevenBlack/hosts
 - [WSL 2 guide](https://www.sitepoint.com/wsl2/)
+- [3D visualization of a CNN](https://www.cs.ryerson.ca/~aharley/vis/conv/)
+- [A blog/info site on network security](https://securityintelligence.com/)
