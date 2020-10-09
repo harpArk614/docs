@@ -17,11 +17,15 @@
 - [News for coders by coders ](https://hackernoon.com/)
 - [A blog/info site on network security](https://securityintelligence.com/)
 
+## Just for fun
+- [Be healthy WHO ](https://www.who.int/behealthy)
+- [Just a cool site for music lovers and UX enthusiasts](http://www.because-recollection.com/)
+- [Dominos](http://domino.roilipman.com/)
+
 ## Unfiltered
 - [Open Encyclopedia of Integer Sequences](https://oeis.org)
 - [Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
 - [College Notes](https://viden.io/)
-- [Be healthy WHO ](https://www.who.int/behealthy)
 - [JavaScript Guide by Crackford (He made JSON)](https://www.crockford.com/javascript/javascript.html)
 - [Library Genesis (An exhaustive library for comics , novels , magazines , Sci-Articles and a lot more )](https://libgen.lc/)
 - [Working of a browser](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
@@ -32,3 +36,5 @@
 - [Just another text editor](https://github.com/hundredrabbits/Left)
 - [A bunch of difficult math/computer problems](https://projecteuler.net/about)
 - [Web Scraping guide using python](https://scrapism.lav.io/)
+- [Z-Library ( World's largest E-book library ) ](https://b-ok.cc/)
+- [Moniter website Changes](https://visualping.io/)
