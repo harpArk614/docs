@@ -36,9 +36,13 @@
 - [Web Scraping guide using python](https://scrapism.lav.io/)
 - [Z-Library ( World's largest E-book library ) ](https://b-ok.cc/)
 - [Moniter website Changes](https://visualping.io/)
+- [ML Blog](https://madewithml.com/)
+- https://www.justinpinkney.com/
+- [MDN Docs ( Great WebD resource )](https://developer.mozilla.org/en-US/)
 
 ## Just for fun
 - [Be healthy WHO ](https://www.who.int/behealthy)
 - [Just a cool site for music lovers and UX enthusiasts](http://www.because-recollection.com/)
 - [Dominos](http://domino.roilipman.com/)
 - [Classical Art Gallery](https://artvee.com/)
+- [Cool projects based on JS](https://explorabl.es/all/)
